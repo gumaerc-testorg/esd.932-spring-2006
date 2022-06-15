@@ -1,10 +1,10 @@
 ---
 content_type: video_gallery
+description: The audio lectures section contains audio files of .mp3 format.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Audio
 ocw_type: CourseSection
-parent_uid: null
 title: Audio Lectures
 uid: 302b3d5f-22df-459f-d68b-51faeb7bd7fe
 videos:

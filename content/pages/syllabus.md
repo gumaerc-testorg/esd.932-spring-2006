@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains information about course description, course
+  level, course calendar, grading criteria, and instructor biography.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: da286e99-1c7a-58a0-4917-0657fcf95ae9
 ---
@@ -17,7 +18,7 @@ Course Description
 
 This course is presented in three parts: theory; case studies; and research and presentation. The greater part of the time in this course is spent in Part 2 on the engineering ethics case studies. The course will be graded from a mid-term covering Part 1 and some topics in Part 2, and from a major paper and presentation. This is a group project on a topic from Part 2, pulling together in-depth research by individuals in Part 3.
 
-Part 1 consists in ethics, philosophy of engineering, and the engineering ethics case study methodology. Major features of Western ethics in the Greek and Latin traditions are studied. Kant, Mill, Kierkegaard and Augustine are among the readings. Ties from the West to other cultural traditions are made by the narrative approach to ethics with emphasis on mythic stories. Joseph Campbell is principal consultant. Philosophy of engineering is laid down in the four major categories of philosophy: metaphysics, ethics, epistemology and education. {{< resource_link 1d41e9b9-c84a-4733-2cdf-bc304ea10c99 "Readings" >}} include, respectively: Aristotle's _The Metaphysics_; Pinkus' _Engineering Ethics_; Vincenti's _What Engineers Know And How They Know It;_ B. V. Koen's _Discussion of the Method_; and Harvard University's _General Education in a Free Society_ and ASEE's Grinter Report.
+Part 1 consists in ethics, philosophy of engineering, and the engineering ethics case study methodology. Major features of Western ethics in the Greek and Latin traditions are studied. Kant, Mill, Kierkegaard and Augustine are among the readings. Ties from the West to other cultural traditions are made by the narrative approach to ethics with emphasis on mythic stories. Joseph Campbell is principal consultant. Philosophy of engineering is laid down in the four major categories of philosophy: metaphysics, ethics, epistemology and education. {{% resource_link 1d41e9b9-c84a-4733-2cdf-bc304ea10c99 "Readings" %}} include, respectively: Aristotle's _The Metaphysics_; Pinkus' _Engineering Ethics_; Vincenti's _What Engineers Know And How They Know It;_ B. V. Koen's _Discussion of the Method_; and Harvard University's _General Education in a Free Society_ and ASEE's Grinter Report.
 
 Part 2 consists in engineering ethics case studies. Historical cases are taken primarily from the scholarly literatures on engineering ethics, and hypothetical cases are written by students. Each student will write a story by selecting an ancestor or mythic hero as a substitute for a character in a historical case. Students will compare these cases and recommend action. Readings include: Harris' _Engineering Ethics_; and Broome's _The Concrete Sumo_.
 

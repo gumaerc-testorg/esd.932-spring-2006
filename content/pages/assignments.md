@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: The assignments section contains summary of 2 homeworks and 1 project
+  research completed during the term of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 53d3b600-2bb1-6e8f-b831-dc68ee04d732
 ---

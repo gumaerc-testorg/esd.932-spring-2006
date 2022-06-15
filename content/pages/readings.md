@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: The readings section contains readings for parts 1 and 2 of the course
+  and 1 supplement reading.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 1d41e9b9-c84a-4733-2cdf-bc304ea10c99
 ---
@@ -45,4 +46,4 @@ Pinkus, R. L. B., et al. _Engineering Ethics: Balancing Cost, Schedule, and Risk
 
 Professor Broome is completing a book related to this course. A draft of the preface is presented here as a supplementary reading.
 
-The Nature of Engineering - Author's Preface ({{< resource_link 1454a0a0-86ef-f2da-579e-eadb69b263ba "PDF" >}})
+The Nature of Engineering - Author's Preface ({{% resource_link 1454a0a0-86ef-f2da-579e-eadb69b263ba "PDF" %}})
