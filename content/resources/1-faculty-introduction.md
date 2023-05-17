@@ -25,6 +25,7 @@ start_time: ''
 title: '1: Faculty Introduction'
 uid: 982b6898-7dee-2616-ecb6-d080dee9300e
 video_files:
+  archive_url: http://www.archive.org/download/MITESD.932S06/MITESD_932S06intro_300k.mp4
   video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/course_introduction_mit_esd932_engineering_ethics_spring_2006.vtt
   video_thumbnail_file: https://img.youtube.com/vi/5QHc0RK0FxA/default.jpg
   video_transcript_file: https://account.3playmedia.com/files/8187794/transcript.pdf?transcript_id=24488326&dl=1
