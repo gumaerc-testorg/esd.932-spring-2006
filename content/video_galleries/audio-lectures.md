@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: The audio lectures section contains audio files of .mp3 format.
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Audio
@@ -10,31 +11,27 @@ uid: 302b3d5f-22df-459f-d68b-51faeb7bd7fe
 videos:
   content:
   - 982b6898-7dee-2616-ecb6-d080dee9300e
-  - 189df78e-a338-a2c7-bb06-51056aab47dc
-  - 68b2531a-2367-5eeb-df94-8ed37fda54be
-  - ce0674f1-17ce-b1bf-9a57-23827b018178
-  - 3bcfdfa2-4545-d531-417a-a6bc7e6c7362
-  - 4e4433b1-1bf5-083c-81a2-01cf1d1ca235
-  - d92d096d-04e8-90b0-1c87-c6440c333a64
-  - 77eb9094-c825-39c9-7af7-5761aefe0418
-  - 582b789a-49b3-7958-69ef-8cfd888bd8ea
-  - bb9278c9-4e80-b3f8-3876-646bb2d77200
-  - f807560f-6001-c164-53d9-517916d88a2a
-  - 59b2b273-fbfd-7092-6111-a534b9dde4d4
-  - b0af4fef-eb89-f939-2d9b-0c31495e41df
-  - b2852544-87e0-be78-980f-630db995bc80
-  - 26aec55e-4eba-41d3-a88c-4e58ccc8a9c4
-  - 63448279-6a8e-ac18-95b0-5044cc530a8f
-  - d4c301ab-42ea-f5ac-cc5c-b3b7aabfefcf
-  - 072a1413-42b4-65e0-d149-1d20beee5bb0
-  - 61892dd6-444f-a793-f1ec-ba2797da6585
-  - bbc00445-24f0-3e22-ae1e-4d9c65b177e6
-  - e3bfdc35-1bd8-9220-ffaf-c36221f6940c
-  - d8e700d2-5f9c-30a9-6586-4a0efb965982
-  - 7632530a-50ce-918f-75ca-ed60f235b80c
+  - e62366d8-650d-47d3-b42f-c1ef26ce1e29
+  - 5efa4d23-f02d-4c92-94ef-92496299e175
+  - c4284c2d-c8ce-4953-ae23-933d7c6da34c
+  - cda44f61-db1d-41f7-8a0a-ccc8059a3210
+  - f34f8405-9fac-4fed-8f1a-031c643c9dc1
+  - ff80ecd8-255f-4eb9-91ff-480f4ac8ebf8
+  - 845438c1-ebdb-4be2-bd3b-b4d9618ae6c4
+  - 43def8f8-1043-4967-b209-f05feed6a8bc
+  - 40f313ec-07cb-4b3b-b15d-2ddf8692644b
+  - 8a920563-bf1b-4aff-8284-34a53ef21b0a
+  - 0c039d7e-ba11-46a3-9520-5d5be3bdee42
+  - 6aa28b3c-3cfd-4faa-a571-09b493cb9385
+  - 58fc3dc0-94a5-4b0d-89ad-633c4d0cc8e2
+  - 58f6c064-d0cc-43d4-b7bc-eab60e7fd126
+  - 34bb9131-7f30-478a-9430-3e195f9189c8
+  - c4201eae-b615-47f5-8f6d-47ca3b1df9b7
+  - cf55f81a-99a0-4638-bf62-f1801063aa18
+  - 95a7850e-8b2e-4e16-8e0b-0f4494fabbd5
+  - fd9c991a-7094-4b83-85f9-f7716e4cc944
+  - bb5c07c2-41c3-48f0-85c5-4959735ee8d9
+  - 98884af3-eb6b-4ebd-ada6-b000d414245b
   website: esd-932-engineering-ethics-spring-2006
 ---
-
-
 {{< video-gallery "302b3d5f-22df-459f-d68b-51faeb7bd7fe" >}}
-
