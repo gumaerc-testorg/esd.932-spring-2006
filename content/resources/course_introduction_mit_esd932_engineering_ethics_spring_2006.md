@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: ''
 file: /courses/esd-932-engineering-ethics-spring-2006/course_introduction_mit_esd932_engineering_ethics_spring_2006.vtt
+file_size: 5123
 file_type: text/vtt
 image_metadata:
   caption: ''
