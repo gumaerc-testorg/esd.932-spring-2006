@@ -4,6 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
+file_size: '7542507'
 file_type: ''
 image_metadata:
   caption: ''
@@ -28,7 +29,7 @@ video_files:
   archive_url: http://www.archive.org/download/MITESD.932S06/MITESD_932S06intro_300k.mp4
   video_captions_file: /courses/esd-932-engineering-ethics-spring-2006/course_introduction_mit_esd932_engineering_ethics_spring_2006.vtt
   video_thumbnail_file: https://img.youtube.com/vi/5QHc0RK0FxA/default.jpg
-  video_transcript_file: https://account.3playmedia.com/files/8187794/transcript.pdf?transcript_id=24488326&dl=1
+  video_transcript_file: /courses/esd-932-engineering-ethics-spring-2006/course_introduction_mit_esd932_engineering_ethics_spring_2006.pdf
 video_metadata:
   video_speakers: Dr. Taft Broome
   video_tags: Course Introduction, engineering ethics
