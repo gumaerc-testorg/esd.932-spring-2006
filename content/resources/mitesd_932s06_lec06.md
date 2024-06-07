@@ -4,6 +4,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec06_360p_16_9.mp4
+file_size: 114955885
 file_type: video/mp4
 image_metadata:
   caption: ''
