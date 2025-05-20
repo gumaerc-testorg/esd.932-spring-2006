@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec04_360p_16_9.mp4
+file: courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec04_360p_16_9.mp4
 file_size: 101572245
 file_type: video/mp4
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Videos
+- Lecture Audio
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: '4: Introduction to Philosophy of Engineering I'
