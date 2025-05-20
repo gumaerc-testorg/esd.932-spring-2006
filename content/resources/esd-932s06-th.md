@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/esd-932-engineering-ethics-spring-2006/96eecf8b46f38374c7bca3084500a43b_esd-932s06-th.jpg
+file: /courses/esd-932-engineering-ethics-spring-2006/96eecf8b46f38374c7bca3084500a43b_esd-932s06-th.jpg
 file_size: 14968
 file_type: image/jpeg
 image_metadata:
