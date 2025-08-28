@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec10_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/esd-932-engineering-ethics-spring-2006/mitesd_932s06_lec10_360p_16_9.mp4
 file_size: 100647219
 file_type: video/mp4
 image_metadata:
