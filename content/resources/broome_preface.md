@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a draft preface to professor Broome's forthcoming
   book on engineering ethics.
-file: /courses/esd-932-engineering-ethics-spring-2006/1454a0a086eff2da579eeadb69b263ba_broome_preface.pdf
+file: /ol-ocw-studio-app/courses/esd-932-engineering-ethics-spring-2006/1454a0a086eff2da579eeadb69b263ba_broome_preface.pdf
 file_size: 130592
 file_type: application/pdf
 learning_resource_types:
