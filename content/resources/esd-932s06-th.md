@@ -7,7 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: The Love Canal toxic waste site, with its long history of health effects,
     cleanup efforts, and eventual relocation of all residents, is one of the case
-    studies considered in this course. (Photograph courtesy of [U.S. EPA](http://www.epa.gov/).)
+    studies considered in this course. (Photograph courtesy of {{% resource_link "9b6065ca-71c7-46f9-827d-f5a61744b3cc"
+    "U.S. EPA" %}}.)
   credit: ''
   image-alt: Photo of abandoned house.
 learning_resource_types: []
